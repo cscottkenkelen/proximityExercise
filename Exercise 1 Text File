@@ -1,0 +1,12 @@
+Exercise 1 Text Folder
+2. box-sizing made the Divs not change much
+3. Div 1 and Div 2 moved to the right of the screen, Div 1 was to the most right
+4. Both of them shifted to the left, Div 1 was first
+5. when I made the browsers smaller the divs stayed in the same place, Div 2 began to get cut off
+6. Div 1 goes all the way to the right and Div 2 moved all the way to the left.  There was space in the middle.
+7. Div 1 takes up the whole screen and pushes Div 2 to go below it.
+8. The Div's became more rectangular and over 500px wide. Also they were next to each other.
+9. They get smaller with the browser, staying at that 35%.
+10. We have three boxes now.
+11. I made this happen by setting all the Divs to 25% width.
+12. I made this happen by Div1 being 25% and Div2 and 3 at 32.5%, To make this with pixels I made to make Div1 360px and Div2 and 3 to 460px.
