@@ -1,21 +1,10 @@
 #wrapper {
-  width: 100%;
-  padding: 15px
   margin: auto;
-  box-sizing: border-box;
-}
-#nav {
-  float:left;
-  width: 25%;
-  box-sizing: border-box;
-}
-#mainContent {
   float: left;
-  width: 50%;
-  box-sizing: border-box;
+  border-left: black;
+  border-right: black;
+
 }
-#rightSidebar {
+nav {
   float: left;
-  width: 25%;
-  box-sizing: border-box;
 }
